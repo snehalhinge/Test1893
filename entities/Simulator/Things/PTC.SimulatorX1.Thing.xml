@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-07-15T16:10:22.898Z"
+         lastModifiedDate="2020-10-28T09:01:56.829Z"
          name="PTC.SimulatorX1.Thing"
          projectName="Simulator"
          published="false"
@@ -57,18 +57,14 @@
             <ImplementedShapes></ImplementedShapes>
             <ThingProperties>
                 <FriendlyName>
-                    <Value>
-                    <![CDATA[
-                    X1 Device
-                    ]]>
-                    </Value>
-                    <Timestamp>2019-02-01T17:50:29.165Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value></Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </FriendlyName>
                 <hum>
-                    <Value>931.615321099923</Value>
-                    <Timestamp>2019-02-18T21:30:23.852Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </hum>
                 <HumidityHigh>
                     <Value>75.0</Value>
@@ -82,28 +78,28 @@
                 </pitch>
                 <PitchHighLimit>
                     <Value>200.0</Value>
-                    <Timestamp>2019-02-01T16:51:43.680Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </PitchHighLimit>
                 <roll>
-                    <Value>32.0</Value>
-                    <Timestamp>2019-02-18T21:30:23.852Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </roll>
                 <RollHighLimit>
                     <Value>200.0</Value>
-                    <Timestamp>2019-02-07T17:27:47.950Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </RollHighLimit>
                 <temp>
-                    <Value>668.9306590840824</Value>
-                    <Timestamp>2019-02-18T21:30:23.852Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </temp>
                 <TemperatureHigh>
                     <Value>75.0</Value>
-                    <Timestamp>2019-02-07T17:27:47.950Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </TemperatureHigh>
                 <yaw>
                     <Value>11.0</Value>
@@ -112,8 +108,8 @@
                 </yaw>
                 <YawHighLimit>
                     <Value>200.0</Value>
-                    <Timestamp>2019-02-07T17:27:47.950Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </YawHighLimit>
             </ThingProperties>
         </Thing>

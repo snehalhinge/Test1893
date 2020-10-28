@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-07-15T16:10:22.873Z"
+         lastModifiedDate="2020-10-28T09:01:56.693Z"
          name="PTC.Simulator.VS"
          projectName="Simulator"
          published="false"
@@ -92,8 +92,8 @@
                 </hum>
                 <HumidityHigh>
                     <Value>75.0</Value>
-                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </HumidityHigh>
                 <pitch>
                     <Value>0.0</Value>
@@ -101,9 +101,9 @@
                     <Quality>UNKNOWN</Quality>
                 </pitch>
                 <PitchHighLimit>
-                    <Value>300.0</Value>
-                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>200.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </PitchHighLimit>
                 <roll>
                     <Value>0.0</Value>
@@ -111,9 +111,9 @@
                     <Quality>UNKNOWN</Quality>
                 </roll>
                 <RollHighLimit>
-                    <Value>300.0</Value>
-                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>200.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </RollHighLimit>
                 <temp>
                     <Value>0.0</Value>
@@ -122,8 +122,8 @@
                 </temp>
                 <TemperatureHigh>
                     <Value>75.0</Value>
-                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </TemperatureHigh>
                 <yaw>
                     <Value>0.0</Value>
@@ -131,9 +131,9 @@
                     <Quality>UNKNOWN</Quality>
                 </yaw>
                 <YawHighLimit>
-                    <Value>300.0</Value>
-                    <Timestamp>2017-03-26T19:06:40.741Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>200.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </YawHighLimit>
             </ThingProperties>
         </Thing>

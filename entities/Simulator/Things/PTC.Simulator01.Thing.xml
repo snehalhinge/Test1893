@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-07-15T16:10:22.879Z"
+         lastModifiedDate="2020-10-28T09:01:56.701Z"
          name="PTC.Simulator01.Thing"
          projectName="Simulator"
          published="false"
@@ -57,63 +57,59 @@
             <ImplementedShapes></ImplementedShapes>
             <ThingProperties>
                 <FriendlyName>
-                    <Value>
-                    <![CDATA[
-                    Base01 Device
-                    ]]>
-                    </Value>
-                    <Timestamp>2019-02-01T17:51:27.353Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value></Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </FriendlyName>
                 <hum>
-                    <Value>81.30881868670869</Value>
-                    <Timestamp>2019-02-25T17:57:32.119Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </hum>
                 <HumidityHigh>
                     <Value>75.0</Value>
-                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </HumidityHigh>
                 <pitch>
-                    <Value>126.0</Value>
-                    <Timestamp>2019-02-25T17:57:32.104Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </pitch>
                 <PitchHighLimit>
                     <Value>200.0</Value>
-                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </PitchHighLimit>
                 <roll>
-                    <Value>253.0</Value>
-                    <Timestamp>2019-02-25T17:57:32.104Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </roll>
                 <RollHighLimit>
                     <Value>200.0</Value>
-                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </RollHighLimit>
                 <temp>
-                    <Value>78.52599146231606</Value>
-                    <Timestamp>2019-02-25T17:57:32.119Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </temp>
                 <TemperatureHigh>
                     <Value>75.0</Value>
-                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </TemperatureHigh>
                 <yaw>
-                    <Value>175.0</Value>
-                    <Timestamp>2019-02-25T17:57:32.104Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Value>0.0</Value>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </yaw>
                 <YawHighLimit>
                     <Value>200.0</Value>
-                    <Timestamp>2017-04-01T11:13:02.343Z</Timestamp>
-                    <Quality>GOOD</Quality>
+                    <Timestamp>1970-01-01T00:00:00.000Z</Timestamp>
+                    <Quality>UNKNOWN</Quality>
                 </YawHighLimit>
             </ThingProperties>
         </Thing>
